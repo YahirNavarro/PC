@@ -1,0 +1,20 @@
+Se ha extraido la metadata de cada imagen:Imagen: .\scriptPS\Scrip_PwShelll.ps1
+No se han detectado imagenesImagen: .\__pycache__\env_correo.cpython-38.pyc
+No se han detectado imagenesImagen: .\__pycache__\metadata_img.cpython-38.pyc
+No se han detectado imagenesImagen: .\__pycache__\nmap_Scripting.cpython-38.pyc
+No se han detectado imagenesImagen: .\__pycache__\script_Hash.cpython-38.pyc
+No se han detectado imagenesImagen: .\env_correo.py
+No se han detectado imagenesImagen: .\htb-done.png
+Metadata: ResolutionUnit - Value: 2 
+Metadata: ExifOffset - Value: 78 
+Metadata: XResolution - Value: 144.0 
+Metadata: YResolution - Value: 144.0 
+Metadata: ExifImageWidth - Value: 906 
+Metadata: ExifImageHeight - Value: 718 
+Imagen: .\metadata_img.py
+No se han detectado imagenesImagen: .\nmap_Scripting.py
+No se han detectado imagenesImagen: .\PIA-PC.py
+No se han detectado imagenesImagen: .\repmet.txt
+No se han detectado imagenesImagen: .\requirements.txt
+No se han detectado imagenesImagen: .\script_Hash.py
+No se han detectado imagenes
